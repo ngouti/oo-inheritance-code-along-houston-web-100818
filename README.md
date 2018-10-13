@@ -43,7 +43,7 @@ class Vehicle
     "vrrrrrrrooom!"
   end
 
-  def fill_up_tank
+  def fill_up_tank #instance method
     "filling up!"
   end
 
